@@ -1,5 +1,7 @@
 Utility for EASTRON SDM120CTM  40mA
 
+Carefully connect 220V wiring! Wrong connection will burn the meter.
+
 Youtube https://www.youtube.com/watch?v=7jMcI2eDFto
 
 
